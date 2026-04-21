@@ -1,0 +1,28 @@
+## Glossario
+
+- **Aerospace/Defence**: contesto industriale legato a aerospazio, difesa e sicurezza, dove gli asset sono complessi, costosi e soggetti a processi manutentivi strutturati.
+- **Asset**: il bene operativo da monitorare, per esempio un elicottero, un radar, un sottosistema o un apparato tecnico.
+- **Base operativa**: sede o sito in cui gli asset operano e vengono gestiti/manutenuti.
+- **Anomalia**: segnalazione iniziale di un problema tecnico, malfunzionamento o comportamento fuori norma rilevato su un asset o componente.
+- **Work order**: ordine di lavoro manutentivo aperto a partire da un’anomalia o da una necessità programmata; contiene stato, priorità, tempi e assegnazione.
+- **Maintenance task**: singola attività eseguita all’interno di un work order, ad esempio ispezione, sostituzione componente, test o ripristino.
+- **Processo manutentivo**: flusso operativo completo che va dall’anomalia alla chiusura dell’intervento.
+- **Presa in carico**: momento in cui un work order viene accettato e assegnato a un team o a un tecnico.
+- **Chiusura work order**: conclusione formale dell’ordine di lavoro, quando le attività richieste risultano completate.
+- **Priorità**: livello di urgenza assegnato a un’anomalia o a un work order, utile per decidere l’ordine di intervento.
+- **Severità**: gravità tecnica o impatto del problema rilevato; non coincide sempre con la priorità operativa.
+- **SLA (Service Level Agreement)**: soglia o target temporale entro cui un’attività dovrebbe essere presa in carico o chiusa.
+- **Fuori SLA**: condizione in cui il tempo reale supera il target previsto.
+- **Backlog**: insieme dei work order ancora aperti o non completati in un dato momento.
+- **Lead time di chiusura**: tempo totale che passa tra apertura e chiusura di un work order.
+- **Tempo di presa in carico**: tempo che passa tra apertura del work order e assegnazione/inizio lavorazione.
+- **MTTR (Mean Time To Repair)**: tempo medio necessario per completare una riparazione o chiudere un intervento tecnico.
+- **Downtime**: tempo di fermo dell’asset, cioè periodo in cui non è disponibile per l’operatività.
+- **Disponibilità operativa**: grado con cui un asset è effettivamente disponibile all’uso, nonostante guasti, ritardi o manutenzione.
+- **Effort manutentivo**: quantità di lavoro richiesta per gestire la manutenzione, espressa in ore, task, persone coinvolte o intensità operativa.
+- **Ticket manutentivo**: termine spesso usato come sinonimo di work order o richiesta di intervento, a seconda del livello di dettaglio del modello.
+- **Correttiva**: manutenzione fatta per risolvere un guasto o un problema già avvenuto.
+- **Programmata / preventiva**: manutenzione pianificata in anticipo per ridurre il rischio di guasti o mantenere l’asset in condizioni operative adeguate.
+- **Componente**: parte tecnica dell’asset che può essere coinvolta in anomalie, ispezioni o sostituzioni.
+- **Categoria componente**: classificazione di alto livello dei componenti, utile per analisi aggregate, ad esempio avionica, propulsione, struttura, sensori.
+- **Team manutentivo**: gruppo di tecnici o specialisti responsabili dell’esecuzione degli interventi.
